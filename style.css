@@ -3,6 +3,7 @@ body{
     background-size: cover; */
     background-color: rgba(245, 234, 213, 0.788);
     margin: 0;
+    font-family: 'Sono', sans-serif;
 }
 a,h2{
     color: rgb(197, 14, 14);
